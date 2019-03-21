@@ -1,8 +1,8 @@
 # meikaijava
 A revamped maven-based project for MeikaiJava Book demos and exercises.
 
-# 《明解Java》书里的示例代码和练习题的解答代码
-## 已重新整理，这是一个Maven项目，虽然这些基础入门的练习代码可能用不到Maven什么特性，只是为了稍微规范一点，就用Maven构建啦。
+### 《明解Java》书里的示例代码和练习题的解答代码
+#### 已重新整理，这是一个Maven项目，虽然这些基础入门的练习代码可能用不到Maven什么特性，只是为了稍微规范一点，就用Maven构建啦。
 > 目录结构如下
 ```
 meikaijava
