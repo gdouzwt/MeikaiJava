@@ -6,17 +6,14 @@ public class Exe13 {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
 
-        System.out.print("整数a：");
-        int a = stdIn.nextInt();
+        System.out.print("整数a："); int a = stdIn.nextInt();
 
-        System.out.print("整数b：");
-        int b = stdIn.nextInt();
+        System.out.print("整数b："); int b = stdIn.nextInt();
 
-        System.out.print("整数c：");
-        int c = stdIn.nextInt();
+        System.out.print("整数c："); int c = stdIn.nextInt();
 
         int m, n, k;
-        m = (a > b ? b : a);
+//        m = (a > b ? b : a);
         if (a > b)//m是a和b中较小数
             m = b;
         else
